@@ -36,7 +36,7 @@ This notebook is written in a clear, structured way so recruiters and non-techni
 - `pandas` – data manipulation  
 - `numpy` – numerical operations  
 - `scikit-learn` – cosine similarity and utilities  
-- `matplotlib` / `seaborn` – visualizations (if used)  
+- `matplotlib` / `seaborn` – visualizations 
 
 These tools are standard in data science and machine learning workflows.
 
@@ -95,7 +95,7 @@ Las herramientas principales empleadas fueron:
 - `pandas` – manipulación y limpieza de datos  
 - `numpy` – operaciones matemáticas y de matrices  
 - `scikit-learn` – cálculo de similitud del coseno y herramientas de modelado  
-- `matplotlib` / `seaborn` – visualizaciones (si aplica)  
+- `matplotlib` / `seaborn` – visualizaciones
 
 Estas librerías son estándar en proyectos de ciencia de datos.
 
